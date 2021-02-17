@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    height: 22px;
+    background-image: url(images/image_03.jpg);
+    background-repeat: no-repeat;
+    background-size: 50cm;
+    
+}
+
+.container {
+    display: flex;
+    background-color: rgba(107, 134, 255, 0.74);
+    font-size: 15px;
+}
+.left {
+    display: flex;
+    background-color: rgb(234, 228, 255);
+    color: rgb(194, 194, 194);
+   
+}
+.left > div {
+    margin-right: 20px;
+    
+}
+.logo {
+    
+    font-size: 20px;
+    letter-spacing: 13px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    padding:12px;
+    padding-left: 50px;
+}
+.logo-2 {
+    
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    padding:18px;
+    padding-left: 195mm;
+}
+
+.Home{
+    background-color: white;
+    padding: 15.5px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.About{
+    padding: 15px;
+}
+
+.nav-link a {
+    text-decoration: none;
+}
+.top-container {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    font-size: 10px;
+    padding: 20px;
+    padding-left: 35px;
+    
+}
+.container-2 {
+    padding: 2px;
+    padding-left: 100px;
+    background-color: white;
+    display: flex;
+}
+.shoes {
+    padding: 120px;
+    text-decoration: none;
+    padding-left: 300px;
+}
+.shop {
+    text-decoration: none;
+    margin: 100px;
+    margin-left: 205px;
+    margin-top: 0pt;
+    background-color: rgb(226, 226, 226);
+    padding: 40px;
+    padding-top:120px;
+}
+.shops {
+    text-decoration: none;
+    margin: 100px;
+    margin-top: 0pt;
+    background-color: white;
+    padding: 40px;
+    padding-top:120px;
+
+}
+.shopss{
+    text-decoration: none;
+    margin: 90px;
+    margin-top: 0pt;
+    margin-left: 110px;
+    background-color: rgb(226, 226, 226);
+    padding: 40px;
+    padding-top:120px;
+    
+}
+
+.container-1{
+    margin-left: 100mm;
+    margin-right: auto;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+.about {
+    font-size: 15px;
+    padding: 10px;
+    background-color: white;
+    padding-left: 100px;
+    margin-bottom: 150mm ;
+}
+
+.container-3 {
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    padding-left: 25w0mm;
+}
+.container-4 {
+    margin-left: 100px;
+    display: flex;
+}
+.ring {
+    margin-left: 300px;
+}
+.rings {
+    padding: 120px;
+}
+.ringss {
+    margin-left: 250px;
+}
+.container-5 {
+    padding-left: 100px;
+    background-color: white;
+    display:flex
+    ;
+}
+.container-6 {
+    margin-left: 100px;
+    display: flex;
+}
+
+.footer-bottom {
+    background-color:   rgb(234, 228, 255);
+    padding: 22px;
+    justify-content: center;
+    display:flex;
+    font-size: 13px;
+}
+.container-7 {
+    padding: 15px;
+    background-color:rgba(107, 134, 255, 0.74);
+    color: white;
+    display: flex;
+}
+.container-8 {
+    padding-left: 100mm;
+    background-color: black;
+}
+.right-b {
+    margin-left: 230mm;
+}
